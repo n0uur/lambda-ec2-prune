@@ -1,6 +1,3 @@
-import sys
-
-sys.path.insert(0, 'vendor')
 import boto3
 
 def stop(event, context):
